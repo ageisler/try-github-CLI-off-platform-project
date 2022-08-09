@@ -1,3 +1,4 @@
+# added the missed import
 import random
 
 name = "Joe"
